@@ -6,7 +6,7 @@ Me chamo João Felipe Manferrari, tenho 19 anos e sou natural de Belo Horizonte.
 
 
 * ⚙️ Me aprofundando em **Java Back-End**, utilizando **Spring Boot** e outras tecnologias do ecossistema.
-* 📨 Email para contato : [jmanferrari@gmail.com]
+* 📨 Email para contato : jmanferrari@gmail.com
 * 📋 Conheça mais sobre mim : [Linkedin](https://www.linkedin.com/in/joão-felipe-manferrari/)
 
 ---
@@ -57,7 +57,7 @@ alt="Node.Js"
 title="Node.js"
 width="30px"
 style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg " 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <img
